@@ -25,16 +25,16 @@ The algorithm is specifically designed to tackle common challenges in medical im
    ```bash
    pip install opencv-python numpy matplotlib PyWavelets
 2. **Directory Structure**
-    Ensure your project folder follows this exact structure before running the program:
-    📁 root_directory/
-    ├── main.py
-    ├── enhancement.py
-    ├── segmentation.py
-    ├── measurement.py
-    ├── 📁 dataset/        <-- Place your USG image here (name it 'usg1.png')
-    └── 📁 output/
-        ├── 📁 enhancement/
-        └── 📁 segmentation/
+    'Ensure your project folder follows this exact structure before running the program:''
+    '📁 root_directory/'
+    '├── main.py'
+    '├── enhancement.py'
+    '├── segmentation.py'
+    '├── measurement.py'
+    '├── 📁 dataset/        <-- Place your USG' 'image here (name it 'usg1.png')'
+    '└── 📁 output/'
+        '├── 📁 enhancement/'
+        '└── 📁 segmentation/'
 3. **Execution**
    ```bash
    python main.py
