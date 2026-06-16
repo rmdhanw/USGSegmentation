@@ -32,7 +32,7 @@ The algorithm is specifically designed to tackle common challenges in medical im
     ├── enhancement.py
     ├── segmentation.py
     ├── measurement.py
-    ├── 📁 dataset/        <-- Place your USG image here (name it 'usg1.png')
+    ├── 📁 dataset/        <-- Place your USG image / dataset
     └── 📁 output/
         ├── 📁 enhancement/
         └── 📁 segmentation/
